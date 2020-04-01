@@ -13,10 +13,10 @@ from tweepy.streaming import StreamListener
 import socket
 import json
 
-consumer_key = '2dyADDQmv3DYlwCvepNTc2ZQ9'
-consumer_secret = 'OmGw84wT70xeQvPLunluDZPR5QipB9Jmv3k6GTyvBBA6ZfKZMo'
-access_token = '719016757743095808-7ecdD0mZOl1l2xOD5a1Hr8FgVCGzixG'
-access_secret = '2a3W9rDbSkEuJf3xWGTsUif4Z0vKBJElQMtQMMxRcGhm7'
+consumer_key = ' '
+consumer_secret = ' '
+access_token = ''
+access_secret = ''
 
 # In[2]:
 
