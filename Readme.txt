@@ -1,1 +1,1 @@
-All Programs are tested in cloudxlab
+All Programs are tested in cloudxlab & VMWare 
